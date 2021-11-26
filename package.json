@@ -1,0 +1,31 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuscardos/Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuscardos/Api/issues"
+  },
+  "homepage": "https://github.com/matheuscardos/Api#readme",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.11.10",
+    "@types/sequelize": "^4.28.10",
+    "@types/validator": "^13.7.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "sequelize": "^6.12.0-alpha.1",
+    "typescript": "^4.5.2",
+    "validator": "^13.7.0"
+  }
+}
